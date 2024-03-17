@@ -34,7 +34,7 @@ Below is a screenshot of the data model in Power BI. This data model also shows 
 
 ### Call Center Analysis Dashboard
 
-The Call Center Analysis Overview dashboard allows filtering data by Quarter , month , data, language and Skill, showing graphs and KPIS comparing against the budget.
+The Call Center Analysis Overview dashboard allows filtering data by Quarter , month , data, language and Skill, showing graphs and KPIS that will help with better decision making.
 
 [Click to open the dashboard and try it out!](https://app.powerbi.com/view?r=eyJrIjoiNzMxMDkyNjctZmRlZS00ZDE5LWFlOTgtNmE1NTFlM2VkN2QzIiwidCI6IjIzZGI2ZTA2LTA1YzQtNDg5ZC1iMTM2LWNiYTk0YThlNmYzNiIsImMiOjh9)
 
