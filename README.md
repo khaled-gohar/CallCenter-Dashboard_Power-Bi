@@ -2,7 +2,7 @@
 
 Call Center Analysis project using Power BI
 
-### Tools Used
+## Tools Used
 
 - Data - ( Calls Data.csv - CSAT Data.csv)
 - Data Cleaning, Analysis & Data Visualization - Power BI
@@ -30,7 +30,7 @@ To create the necessary data model for doing analysis and fulfilling the busines
 
 Below is a screenshot of the data model in Power BI. This data model also shows how Calls Data and CSAT Data have been connected to DIM tables (cleander table).
 
-![Untitled](Call%20Center%20Analysis%20cc5e34d0627148f5b105c0de59bc9709/Untitled.png)
+![Data model](https://github.com/khaled-gohar/CallCenter_Dashboard_PowerBi/assets/133038582/3839caf4-89ca-4e7b-ae4b-5a25f0c88db0)
 
 ### Call Center Analysis Dashboard
 
@@ -38,4 +38,5 @@ The Call Center Analysis Overview dashboard allows filtering data by Quarter , m
 
 [Click to open the dashboard and try it out!](https://app.powerbi.com/view?r=eyJrIjoiNzMxMDkyNjctZmRlZS00ZDE5LWFlOTgtNmE1NTFlM2VkN2QzIiwidCI6IjIzZGI2ZTA2LTA1YzQtNDg5ZC1iMTM2LWNiYTk0YThlNmYzNiIsImMiOjh9)
 
-![Untitled](Call%20Center%20Analysis%20cc5e34d0627148f5b105c0de59bc9709/Untitled%201.png)
+![Dashboard](https://github.com/khaled-gohar/CallCenter_Dashboard_PowerBi/assets/133038582/881db68c-c828-45a9-8347-46bd28120f46)
+
