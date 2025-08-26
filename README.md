@@ -1,42 +1,82 @@
-# Call Center Analysis
+# 📞 Call Center Analysis Dashboard
 
-Call Center Analysis project using Power BI
+A professional **Call Center Analysis Project** built in **Power BI** to provide executives and managers with actionable insights for improving call center performance, efficiency, and customer satisfaction.  
 
-## Tools Used
+---
 
-- Data - ( Calls Data.csv - CSAT Data.csv)
-- Data Cleaning, Analysis & Data Visualization - Power BI
+## 🛠 Tools & Technologies
 
-### Business Problem
+- **Data Sources:**  
+  - `Calls Data.csv`  
+  - `CSAT Data.csv`  
+- **Data Cleaning, Analysis & Visualization:** Power BI  
+- **Modeling:** Calendar table, relationships, KPIs, and calculated measures  
 
-The business request for this data analyst project was an executive Dashboard for manager. Based on the request that was made from the business we following user stories were defined to fulfill delivery and ensure that acceptance criteria were maintained throughout the project.
+---
 
-Create a Power BI dashboard that covers the below points:
+## ❓ Business Problem
 
-- Calculate AHT, PCA% & SLA% and visualize them.
-- Chart for average offered calls per day.
-- Chart shows average offered calls during days of the Week.
-- Chart shows the total of offered calls per skill month view.
-- Chart shows AHT Per language during the four quarters.
-- Chart shows percentage for answered calls per skill.
-- Compare AHT for AR & Eng teams by using a boxplot chart & describe the outcome.
-- Calculate CSAT & FCR scores and show if there is a relationship between them by chart.
+The business requested an **executive dashboard** to monitor call center performance and customer satisfaction in real time.  
 
-### Data Collection & Table Structures
+To meet this request, the following **user stories** were defined and delivered:
 
-To create the necessary data model for doing analysis and fulfilling the business needs defined in the user stories The following tables were received by mail and the data has been cleansed and transformed using Power bi. cleander table have been created to promotes better data visualization, improves comprehension, and enhances the overall effectiveness of your analysis and reporting efforts.
+- ✅ Calculate and visualize **AHT (Average Handle Time)**, **PCA% (Percentage of Calls Answered)**, and **SLA% (Service Level Agreement)**  
+- 📊 Show **average offered calls per day**  
+- 📊 Visualize **average offered calls by day of the week**  
+- 📊 Show **total offered calls per skill (monthly view)**  
+- 📊 Compare **AHT per language by quarter**  
+- 📊 Show **answered calls % by skill**  
+- 📊 Compare **AHT for Arabic & English teams** using a **boxplot chart** and provide insights  
+- 📊 Calculate **CSAT (Customer Satisfaction Score)** and **FCR (First Call Resolution)**, and analyze their relationship  
 
-### Data Model
+---
 
-Below is a screenshot of the data model in Power BI. This data model also shows how Calls Data and CSAT Data have been connected to DIM tables (cleander table).
+## 📂 Data Collection & Preparation
+
+The data was provided in CSV format via email and then:  
+- Cleaned and transformed in **Power BI**  
+- A **Calendar table** was created to improve data modeling and time-based analysis  
+- Relationships between fact tables (`Calls Data`, `CSAT Data`) and dimension tables (Calendar) were established  
+
+This approach enabled clearer visualization, deeper insights, and enhanced reporting accuracy.  
+
+---
+
+## 🗂 Data Model
+
+The data model connects the **Calls Data** and **CSAT Data** to the **Calendar (DIM) table** for time intelligence analysis:  
 
 ![Data model](https://github.com/khaled-gohar/CallCenter_Dashboard_PowerBi/assets/133038582/3839caf4-89ca-4e7b-ae4b-5a25f0c88db0)
 
-### Call Center Analysis Dashboard
+---
 
-The Call Center Analysis Overview dashboard allows filtering data by Quarter , month , data, language and Skill, showing graphs and KPIS that will help with better decision making.
+## 📊 Dashboard Preview
 
-[Click to open the dashboard and try it out!](https://app.powerbi.com/view?r=eyJrIjoiNzMxMDkyNjctZmRlZS00ZDE5LWFlOTgtNmE1NTFlM2VkN2QzIiwidCI6IjIzZGI2ZTA2LTA1YzQtNDg5ZC1iMTM2LWNiYTk0YThlNmYzNiIsImMiOjh9)
+The **Call Center Analysis Dashboard** provides:  
+- Interactive filtering by **Quarter, Month, Date, Language, and Skill**  
+- **KPIs** and **graphs** to support data-driven decision-making  
+- Insights into **call performance, SLA compliance, and customer satisfaction**  
+
+👉 [**Click here to explore the live dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNzMxMDkyNjctZmRlZS00ZDE5LWFlOTgtNmE1NTFlM2VkN2QzIiwidCI6IjIzZGI2ZTA2LTA1YzQtNDg5ZC1iMTM2LWNiYTk0YThlNmYzNiIsImMiOjh9)  
 
 ![Dashboard](https://github.com/khaled-gohar/CallCenter_Dashboard_PowerBi/assets/133038582/881db68c-c828-45a9-8347-46bd28120f46)
 
+---
+
+## 🚀 Key Outcomes
+
+- Improved monitoring of **call center KPIs**  
+- Identified performance gaps between **Arabic & English teams**  
+- Established correlation between **CSAT** and **FCR**  
+- Delivered an **executive-level dashboard** to support strategic decisions  
+
+---
+
+## 👤 Author
+
+**Khaled Gohar**  
+📌 Data Analyst | Power BI | SQL | Data Visualization  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/khaled-gohar/) | [GitHub](https://github.com/khaled-gohar)  
+
+---
